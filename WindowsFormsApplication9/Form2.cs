@@ -67,7 +67,7 @@ namespace WindowsFormsApplication9
             {
                 if (openFileDialog.ShowDialog() == DialogResult.OK)
                 {
-                    file = openFileDialog.FileName;//fweewfewf
+                    file = openFileDialog.FileName;
                 }
             }
         }
